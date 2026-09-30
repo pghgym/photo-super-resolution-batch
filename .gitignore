@@ -1,0 +1,8 @@
+*.pth
+*.jpg
+*.jpeg
+*.png
+raw_photos/
+enhanced_photos/
+__pycache__/
+*.pyc
